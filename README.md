@@ -1,0 +1,1 @@
+This project is a simple implementation in Ruby of a script capable of monitoring the performance of *select* queries from a MySQL server. It is the result of the instructions explained in the post [Monitoring with Ruby script](https://bitsofknowledge.net/monitor-a-mysql-server-using-a-ruby-script/) and it is stored here for the free use of everybody.

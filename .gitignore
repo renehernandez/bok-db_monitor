@@ -1,0 +1,10 @@
+# RVM related files
+.ruby-gemset
+.ruby-version
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
